@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    align-items: center;
+    /* width: 13rem; */
+    justify-content: space-between;
+    margin: 10px;
+    padding: 7px 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 13px 0 rgba(48, 54, 64, 0.9);
+    color: #94ADCF
+}
+.button{
+    width: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container button{
+    outline: none;
+    border: none;
+    background: transparent;
+}
+.container button svg{
+    width: 20px;
+    height: 20px;
+    color: #94ADCF;
+}
+
+.completed{
+    text-decoration: line-through;
+     color: rgb(255, 65, 77);
+}

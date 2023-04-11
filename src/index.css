@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+
+}
+
+.css-1s2u09g-control {
+  background: #38404B !important;
+  border: 0px !important;
+  box-shadow: 5px 5px 13px 0 rgba(48, 54, 64, 0.9) !important;
+}
+.css-1s2u09g-control :focus {
+  background: #38404B !important;
+  border: 0px !important;
+  box-shadow: 5px 5px 13px 0 rgba(48, 54, 64, 0.9) !important;
+}
+.css-1pahdxg-control {
+  /* box-shadow: 0 0 0 1px #1AA6B7!important; */
+  box-shadow: 5px 5px 13px 0 rgba(48, 54, 64, 0.9);
+
+}
+.css-6j8wv5-Input{
+  width: 125px;
+}
+.css-qc6sy-singleValue{
+  color: inherit !important;
+}
+/* .css-1pahdxg-control:hover {
+  border: 1px solid #1AA6B7!important;
+} */

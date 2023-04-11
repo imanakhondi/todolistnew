@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.container button{
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #94ADCF;
+}
+.container button svg{
+    width: 20px;
+    height: 20px;
+}
+.form{
+    display: flex;
+    box-shadow: 5px 5px 13px 0 rgba(48, 54, 64, 0.9);
+    padding: 5px;
+    width: 250px;
+    justify-content: space-between;
+}
+.form input{
+    background-color: transparent;
+    border-radius: 4px;
+    height: 27px;
+    outline: none;
+    border: none;
+    color: inherit;
+}
+.form input:focus{
+    outline: none;
+}
